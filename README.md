@@ -34,7 +34,7 @@ Build a simple IDS that:
 | Scapy        | Packet sniffing & analysis      |
 | Wireshark    | Network traffic verification    |
 | Nmap         | Port scanning simulation        |
-| Git & GitHub | Version control & documentation |
+
 
 ---
 
